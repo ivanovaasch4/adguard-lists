@@ -1,2 +1,9 @@
 @@||skydns.ru^
 @@||google.com^
+
+176.9.104.175 www.google.ru
+176.9.104.175 www.yandex.ru
+176.9.104.175 google.ru
+176.9.104.175 yandex.ru
+176.9.104.175 www.google.com
+176.9.104.175 google.com
