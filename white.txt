@@ -1,3 +1,10 @@
+*/*.css
+*/*.css?*
+*/*.js
+*/*.js?*
+*/*.vbs
+*/*.vbs?*
+
 @@||skydns.ru^
 
 @@||yaklass.ru^
