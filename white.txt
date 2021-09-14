@@ -1,2 +1,2 @@
 @@||skydns.ru^
-www.google.com
+@@||google.com^
