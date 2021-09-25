@@ -27,7 +27,7 @@
 @@||docs.google.com^
 @@||ria.ru^
 @@||sdamgia.ru^
-@@||https://www.google.com/recaptcha^
+@@||www.google.com/recaptcha^
 @@||skydns.ru^
 @@||education.yandex.ru^
 @@||s3.yandex.net^
