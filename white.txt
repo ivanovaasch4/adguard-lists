@@ -20,12 +20,23 @@
 @@||e.mail.ru^
 @@||1sentyabrya.ru^
 @@||1september.ru^
-@@||chessday.ru^
+@@||chessday.ru/^
 @@||chessking.com^
 @@||sberclass.ru^
 @@||forms.gle^
 @@||docs.google.com^
 @@||ria.ru^
 @@||sdamgia.ru^
-@@www.google.com/recaptcha/
+@@||https://www.google.com/recaptcha^
+@@||skydns.ru^
+@@||education.yandex.ru^
+@@||s3.yandex.net^
+@@||mds.yandex.net^
+@@||stepik.org^
+@@||vimeocdn.com^
+@@||ucarecdn.com^
+@@||sirius.online^
+@@||googleapis.com^
+@@||sochisirius.ru^
+
 
