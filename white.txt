@@ -38,5 +38,6 @@
 @@||sirius.online^
 @@||googleapis.com^
 @@||sochisirius.ru^
+@@||sch4.ucoz.ru^
 
 
