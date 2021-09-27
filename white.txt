@@ -20,7 +20,7 @@
 @@||e.mail.ru^
 @@||1sentyabrya.ru^
 @@||1september.ru^
-@@||chessday.ru/^
+@@||chessday.ru^
 @@||chessking.com^
 @@||sberclass.ru^
 @@||forms.gle^
