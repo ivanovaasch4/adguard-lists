@@ -6,6 +6,8 @@
 @@*/*.vbs?*
 
 @@||skydns.ru^
+@@||yandex.ru^
+@@||google.com^
 
 @@||yaklass.ru^
 @@||uchi.ru^
@@ -27,7 +29,6 @@
 @@||docs.google.com^
 @@||ria.ru^
 @@||sdamgia.ru^
-@@||www.google.com/recaptcha^
 @@||skydns.ru^
 @@||education.yandex.ru^
 @@||s3.yandex.net^
