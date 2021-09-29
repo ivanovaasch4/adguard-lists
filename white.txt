@@ -42,5 +42,6 @@
 @@||sch4.ucoz.ru^
 @@||kaspersky.com^
 @@||gstatic.com^
+@@||msftconnecttest.com^
 @@||scool4.local^
 @@||4.168.192.in-addr.arpa^
