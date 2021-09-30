@@ -45,3 +45,7 @@
 @@||msftconnecttest.com^
 @@||scool4.local^
 @@||4.168.192.in-addr.arpa^
+@@||siriusolymp.ru^
+@@||tildacdn.com^
+@@||k-ege.ru^
+@@||fontawesome.com^
