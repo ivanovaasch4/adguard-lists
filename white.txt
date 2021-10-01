@@ -9,6 +9,22 @@
 @@||yandex.ru^
 @@||google.com^
 
+@@||digicert.com^
+@@||login.live.com^
+@@||client.wns.windows.com^
+@@||ctldl.windowsupdate.com^
+@@||client.wns.windows.com^
+@@||ctldl.windowsupdate.com^
+@@||crl.startssl.com^
+@@||ocsp.startssl.com^
+@@||crl.startcomca.com^
+@@||ocsp.startcomca.com^
+@@||ekop.intel.com^
+@@||crl.identrust.com^
+@@||x1.c.lencr.org^
+@@||logincdn.msauth.net^
+@@||dns.msftncsi.com^
+
 @@||yaklass.ru^
 @@||uchi.ru^
 @@||azureedge.net^
@@ -49,7 +65,4 @@
 @@||tildacdn.com^
 @@||k-ege.ru^
 @@||fontawesome.com^
-@@||digicert.com^
-@@||login.live.com^
-@@||client.wns.windows.com^
-@@||ctldl.windowsupdate.com^
+
