@@ -51,3 +51,5 @@
 @@||fontawesome.com^
 @@||digicert.com^
 @@||login.live.com^
+@@||client.wns.windows.com^
+@@||ctldl.windowsupdate.com^
