@@ -65,4 +65,4 @@
 @@||tildacdn.com^
 @@||k-ege.ru^
 @@||fontawesome.com^
-
+@@||rpspt.ru^
