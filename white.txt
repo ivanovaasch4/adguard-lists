@@ -66,3 +66,4 @@
 @@||k-ege.ru^
 @@||fontawesome.com^
 @@||rpspt.ru^
+@@||msftncsi.com^
