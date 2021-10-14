@@ -67,3 +67,6 @@
 @@||fontawesome.com^
 @@||rpspt.ru^
 @@||msftncsi.com^
+@@||easylist.to^
+@@||easylist-downloads.adblockplus.org^
+@@||combinatronics.io^
