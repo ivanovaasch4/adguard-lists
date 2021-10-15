@@ -70,3 +70,4 @@
 @@||easylist.to^
 @@||easylist-downloads.adblockplus.org^
 @@||combinatronics.io^
+@@||kaspersky-labs.com^
