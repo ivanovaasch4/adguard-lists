@@ -73,3 +73,4 @@
 @@||kaspersky-labs.com^
 @@||quizizz.com^
 @@||googleusercontent.com^
+@@||sentry-cdn.com^
