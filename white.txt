@@ -76,3 +76,5 @@
 @@||sentry-cdn.com^
 @@||invitereferrals.com^
 @@||ref-r.com^
+@@||quizizz.zendesk.com^
+@@||zdassets.com^
