@@ -71,3 +71,4 @@
 @@||easylist-downloads.adblockplus.org^
 @@||combinatronics.io^
 @@||kaspersky-labs.com^
+@@||quizizz.com^
