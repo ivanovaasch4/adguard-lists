@@ -74,3 +74,5 @@
 @@||quizizz.com^
 @@||googleusercontent.com^
 @@||sentry-cdn.com^
+@@||invitereferrals.com^
+@@||ref-r.com^
