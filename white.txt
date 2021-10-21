@@ -81,3 +81,5 @@
 @@||exceltable.com^
 @@||company.rt.ru^
 @@||xn----7sbikand4bbyfwe.xn--p1ai^
+@@||mail.google.com^
+@@||e.mail.ru^
