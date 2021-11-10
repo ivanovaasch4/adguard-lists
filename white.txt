@@ -84,3 +84,4 @@
 @@||mail.google.com^
 @@||e.mail.ru^
 @@||pfdo.ru^
+@@||learningapps.org^
