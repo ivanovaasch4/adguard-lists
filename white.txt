@@ -85,3 +85,9 @@
 @@||e.mail.ru^
 @@||pfdo.ru^
 @@||learningapps.org^
+@@||skysmart.ru^
+@@||cloudflare.com^
+@@||skyeng.ru^
+@@||selcdn.net^
+@@||fontawesome.com^
+@@||amazonaws.com^
