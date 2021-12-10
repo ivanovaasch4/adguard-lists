@@ -99,3 +99,4 @@
 @@||cloudflare.com^
 @@||jsdelivr.net^
 @@||unpkg.com^
+@@||datalesson.ru^
