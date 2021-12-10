@@ -100,3 +100,4 @@
 @@||jsdelivr.net^
 @@||unpkg.com^
 @@||datalesson.ru^
+@@||oauth.vk.com^
