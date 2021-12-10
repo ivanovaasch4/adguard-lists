@@ -94,3 +94,7 @@
 @@||sch4.ucoz.ru/^
 @@||noko.mipnv.ru^
 @@||noko86.ru^
+@@||xn--h1adlhdnlo2c.xn--p1ai^
+@@||cloudflare.com^
+@@||jsdelivr.net^
+@@||unpkg.com^
