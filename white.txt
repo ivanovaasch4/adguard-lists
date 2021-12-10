@@ -101,3 +101,5 @@
 @@||unpkg.com^
 @@||datalesson.ru^
 @@||oauth.vk.com^
+@@||jquery.com^
+
