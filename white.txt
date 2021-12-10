@@ -72,6 +72,7 @@
 @@||combinatronics.io^
 @@||kaspersky-labs.com^
 @@||quizizz.com^
+@@||datalesson.ru^
 @@||googleusercontent.com^
 @@||sentry-cdn.com^
 @@||invitereferrals.com^
