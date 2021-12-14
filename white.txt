@@ -102,4 +102,4 @@
 @@||datalesson.ru^
 @@||oauth.vk.com^
 @@||jquery.com^
-
+@@||clck.ru^
