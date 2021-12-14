@@ -103,3 +103,5 @@
 @@||oauth.vk.com^
 @@||jquery.com^
 @@||clck.ru^
+@@||surgu.ru^
+
