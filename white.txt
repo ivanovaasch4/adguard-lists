@@ -104,4 +104,5 @@
 @@||jquery.com^
 @@||clck.ru^
 @@||surgu.ru^
-
+@@||rustest.ru^
+@@||us04logfiles.zoom.us^
